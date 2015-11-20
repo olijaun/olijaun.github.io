@@ -1,8 +1,15 @@
 ---
 layout: main
+published: true
 ---
+
 
 Test
 ====
 
-Blabla
+Blabla. Gugus dada.
+
+## Test2
+Great
+
+
